@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #EDC;
+	font-family: Georgia;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 5em 2em;
+	width: 80%;
+	text-align: center;
+}
+
+.timer {
+	font-size: 10em;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+footer {
+	padding-top: 2em;
+}
